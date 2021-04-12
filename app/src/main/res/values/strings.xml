@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JetpackCompose Vinyl</string>
+
+    <!-- Content description -->
+    <string name="toggle_play_pause_button">Toggle Play/Pause button</string>
+    <string name="album_cover">Album cover</string>
+</resources>

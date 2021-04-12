@@ -83,3 +83,38 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
+
+# Gradle
+.gradle
+
+captures
+
+/local.properties
+
+# IntelliJ .idea folder
+.idea/compiler.xml
+.idea/jarRepositories.xml
+.idea/deploymentTargetDropDown.xml
+.idea/misc.xml
+gradle.xml
+
+# General
+.DS_Store
+
+# Do not commit plain-text signing info
+release/*.properties
+release/*.gpg
+
+# VS Code config
+org.eclipse.buildship.core.prefs
+.classpath
+.project
+
+# Temporary API docs
+docs/api
+package-list-coil-base
+
+# Mkdocs temporary serving folder
+docs-gen
+site
+*.bak
